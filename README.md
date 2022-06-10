@@ -1,7 +1,7 @@
 # Machine-Learning
 ML algorithm implementations
 
-*** This repo contains different basic algorithm implementation of Machine Learning. This is all the LAB WORK at UPES's ML course. ***
+*** This repo contains different basic algorithm implementation of Machine Learning. This is all the LAB WORK of UPES's ML course. ***
 algorithm implementations are as follows - 
 1. Simple Linear Regression 
 2. Multiple Linear Regression
